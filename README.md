@@ -6,7 +6,7 @@
 - 🚀 Currently, I’m learning about **GANs, EEG data processing, and autonomous systems**
 - 🏆 Achievements: IEEE Best Undergraduate Paper Award
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/zara-cook) or email me at [zncook@uwaterloo.ca](mailto:zncook@uwaterloo.ca)
-- 📚 Check out my [Google Scholar](https://scholar.google.com/citations?user=a8_JSp4AAAAJ&hl) to see my papers
+- 📚 Check out my [Google Scholar](https://scholar.google.com/citations?user=a8_JSp4AAAAJ&hl)  or my [ORCID](https://orcid.org/0009-0009-6059-4377) to see my papers
 
 ---
 
