@@ -4,7 +4,7 @@
 
 - 🤖 I’m interested in ** Artifical Intelligence, Machine Learning, Robotics, and Computational Neuroscience**
 - 🚀 Currently, I’m learning about **GANs, EEG data processing, and autonomous systems**
-- 🏆 Achievements: IEEE Best Undergraduate Paper Award & multiple travel grants
+- 🏆 Achievements: IEEE Best Undergraduate Paper Award
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/zara-cook) or email me at [zncook@uwaterloo.ca](mailto:zncook@uwaterloo.ca)
 - 📚 Check out my [Google Scholar](https://scholar.google.com/citations?user=a8_JSp4AAAAJ&hl) to see my papers
 
