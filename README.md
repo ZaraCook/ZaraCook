@@ -37,7 +37,7 @@
 
 ### 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraCook&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraCook&layout=compact&theme=radical&langs_count=5)
 
 ---
 
