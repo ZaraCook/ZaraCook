@@ -4,7 +4,7 @@
 
 - 🤖 I’m interested in **Artifical Intelligence, Machine Learning, Robotics, and Computational Neuroscience**
 - 🚀 Currently, I’m learning about **GANs, EEG data processing, and autonomous systems**
-- 🏆 Achievements: IEEE Best Undergraduate Paper Award
+- 🏆 Achievements: IEEE I2MTC 2024 Best Undergraduate Paper Award
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/zara-cook) or email me at [zncook@uwaterloo.ca](mailto:zncook@uwaterloo.ca)
 - 📚 Check out my [Google Scholar](https://scholar.google.com/citations?user=a8_JSp4AAAAJ&hl)  or my [ORCID](https://orcid.org/0009-0009-6059-4377) to see my papers
 
@@ -57,6 +57,11 @@
   - *Issued by Sandford Fleming Foundation, May 2024*  
   - Associated with Simon Fraser University  
   - Received the conference grant to attend IEEE I2MTC 2024
+
+- **International Experience Award**  
+  - *Issued by University of Waterloo, May 2024*  
+  - Associated with University of Waterloo 
+  - Received the  award to fund conference attendance
 
 - **President’s Scholarship of Distinction**  
   - *Issued by University of Waterloo, Sep 2022*  
