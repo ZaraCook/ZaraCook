@@ -30,6 +30,19 @@
 
 ---
 
+### Experience
+<img src="https://carleton.ca/wp-content/uploads/2024/10/social-media-sample-red-247w-1.png" alt="CARLETON" width="28" height="28">  ![CARLETON](https://img.shields.io/badge/Undergraduate_Research_Assistant-%23e91c23?style=for-the-badge)
+
+<img src="https://s3.us-east-1.amazonaws.com/jobs-medias/production/3ddec1a23144633704e057d81eccea27.png" alt="NRC" width="28" height="28">  ![NRC](https://img.shields.io/badge/Machine_Learning_and_Robotics_Researcher-%231d5e94?style=for-the-badge)
+
+<img src="https://media.licdn.com/dms/image/v2/D560BAQHcJm9LQ50Y2g/company-logo_200_200/company-logo_200_200/0/1714600022949/hamming_ai_logo?e=1736985600&v=beta&t=wPN0GnYcSIKlDbW6N2vdHVc9QnzUnBty537AmFQOCdk" alt="HAMMING" width="28" height="28">  ![HAMMING](https://img.shields.io/badge/AI_ML_Researcher-%23FFFFFF?style=for-the-badge)
+
+<img src="https://media.licdn.com/dms/image/v2/D560BAQFMCjZRnpf4Yg/company-logo_200_200/company-logo_200_200/0/1696609513072/simon_fraser_university_logo?e=1736985600&v=beta&t=bWh7TD_db57Zig7q3AFXWbVXk1-HX8_7xGC-a4PjVX8" alt="SFU" width="28" height="28">  ![SFU](https://img.shields.io/badge/Computer_Vision_and_Artificial_Intelligence_Researcher-%23db0632?style=for-the-badge)
+
+<img src="https://media.licdn.com/dms/image/v2/C4D0BAQFkaN_MoNt-Yw/company-logo_200_200/company-logo_200_200/0/1648236510813/swaprobotics_logo?e=1736985600&v=beta&t=DF3nfWOEg7q2geNVvLFpyTkfaOOn-nG7NzAFSYNr6Lg" alt="SWAP" width="28" height="28">  ![SWAP](https://img.shields.io/badge/Robotics_and_Web_Developer-%23FFFFFF?style=for-the-badge)
+
+---
+
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaraCook&show_icons=true&theme=radical)
